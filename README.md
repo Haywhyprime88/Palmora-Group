@@ -41,11 +41,11 @@ As an HR Analytics Consultant, I was tasked by CHRO Mr. Shofoluwe to analyze emp
 - The most significant rating gaps were seen in Marketing and Services
 
 ### 3. Gender Pay Gap
-- Males earn an average of $[X] more than females.
-- The gap is widest in the [Insert Dept or Region], requiring urgent attention.
-
+- Males earns an average of $2,634.79 more than each female.
+- The gap is widest in Kaduna, requiring urgent attention.
+  
 ### 4. ⚠️ Salary Compliance ($90K Minimum)
-- **[X]%** of employees earn less than the legal minimum of $90,000.
+- Approximately 69.13% of employees earn less than the legal minimum of $90,000.
 - These cases are most common in [Insert Region/Dept].
 - Salary bands show most employees fall within the $80k–$90k range.
 
