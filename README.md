@@ -47,7 +47,7 @@ As an HR Analytics Consultant, I was tasked by CHRO Mr. Shofoluwe to analyze emp
 ### 4. ⚠️ Salary Compliance ($90K Minimum)
 - Approximately 69.13% of employees earn less than the legal minimum of $90,000.
 - These cases are most common in [Insert Region/Dept].
-- Salary bands show most employees fall within the $80k–$90k range.
+- Salary bands show most employees fall within the $70k–$80k range.
 
 ### 5. 🎁 Bonus Allocation & Compensation
 - Bonus assigned by rating:  
