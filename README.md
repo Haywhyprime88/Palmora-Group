@@ -48,7 +48,7 @@ As an HR Analytics Consultant, I was tasked by CHRO Mr. Shofoluwe to analyze emp
 
 ## Key Insights
 
-### 1. 👥 Gender Distribution
+### 1. Gender Distribution
 - The company is male-dominated, with the majority of employees identifying as male.
 - **Regionally**, the Kaduna region has the most gender imbalance.
 - **Departments** like Support, Legal and Accounting showed low female representation.
@@ -97,13 +97,13 @@ As an HR Analytics Consultant, I was tasked by CHRO Mr. Shofoluwe to analyze emp
 
 ---
 
-## 📝 Recommendations
+## Recommendations
 - Address underpayment issues in light of $90K regulation.
 - Improve gender diversity in departments where women are underrepresented.
 
 ---
 
-## 📎 Deliverables
+## Deliverables
 
 -  Interactive Power BI Dashboard
 -  Insight Summary Report
