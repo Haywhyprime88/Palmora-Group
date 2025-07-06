@@ -1,10 +1,10 @@
 # Palmora-Group
 
-# Case Study 3: Palmoria Group – HR Analytics
+# Case Study 3: Palmora Group – HR Analytics
 
 ## Company Overview
 
-Palmoria Group is a manufacturing company based in Nigeria, currently facing public criticism over perceived gender inequality within its workforce. Amid plans to expand locally and internationally, the leadership is keen to investigate potential issues like gender bias, unequal pay, and compliance failures before they escalate.
+Palmora Group is a manufacturing company based in Nigeria, currently facing public criticism over perceived gender inequality within its workforce. Amid plans to expand locally and internationally, the leadership is keen to investigate potential issues like gender bias, unequal pay, and compliance failures before they escalate.
 
 As an HR Analytics Consultant, I was tasked by CHRO Mr. Shofoluwe to analyze employee data and provide actionable insights. A secondary request came from Mr. Gamma to compute bonus allocations based on employee performance.
 
@@ -32,8 +32,10 @@ As an HR Analytics Consultant, I was tasked by CHRO Mr. Shofoluwe to analyze emp
 
 
 
-![palmora confirm dashboard](https://github.com/user-attachments/assets/94ddc5de-f7c0-4061-942b-1925da1ea458)
 
+
+
+![palmora confirm dashboard](https://github.com/user-attachments/assets/94ddc5de-f7c0-4061-942b-1925da1ea458)
 
 
 
@@ -72,7 +74,7 @@ As an HR Analytics Consultant, I was tasked by CHRO Mr. Shofoluwe to analyze emp
 - Approximately 69.13% of employees earn less than the legal minimum of $90,000, so palmora does not meet the requirement.
 - Salary bands show most employees fall within the $70k–$80k range.
 
-- ### 💼 Salary Band Distribution
+- ### Salary Band Distribution
 
 | S/N | Salary Band          | Employee Count |
 |-----|----------------------|----------------|
@@ -88,46 +90,24 @@ As an HR Analytics Consultant, I was tasked by CHRO Mr. Shofoluwe to analyze emp
 | 10  | Above $120,000       | 97             |
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### 5. 🎁 Bonus Allocation & Compensation
-- Bonus assigned by rating:  
-  - Excellent: $5000  
-  - Good: $3000  
-  - Average: $2000  
-  - Fair: $1000  
-  - Poor: $0
-- **Total Bonus Paid**: $[Insert Total]
-- **Total Compensation Paid**: $[Insert Total]
-- [Insert Region] had the highest bonus payouts due to more high-rated staff.
+### 5. Bonus Allocation & Compensation
+- **Total Bonus Paid**: $21,992,79
+- **Total Compensation Paid**: $71,922,949
+- Kaduna had the highest bonus payouts
 
 ---
 
 ## 📝 Recommendations
-
-- Conduct pay equity audits in [Insert Departments/Regions] with high gaps.
-- Implement bias checks in the performance review process.
 - Address underpayment issues in light of $90K regulation.
 - Improve gender diversity in departments where women are underrepresented.
-- Align bonus distributions with transparent, measurable KPIs.
 
 ---
 
 ## 📎 Deliverables
 
-- 📊 Interactive Power BI Dashboard
-- 🧠 Insight Summary Report
-- 📁 Cleaned & Enriched Dataset
+-  Interactive Power BI Dashboard
+-  Insight Summary Report
+-  Clean data set
+
+----
+**prepared by**: Arinde Ayooluwa.
